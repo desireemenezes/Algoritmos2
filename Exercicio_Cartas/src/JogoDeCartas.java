@@ -21,7 +21,6 @@ public class JogoDeCartas {
 		
 		console.exibir(jogadores);
 		console.exibir(mesa);
-		
 	}
 
 	private static void inicializarJogo(Baralho baralho,
